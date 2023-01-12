@@ -1,0 +1,169 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    float: left;
+    width: 100%;
+    clear: both;
+}
+.header{
+    position: fixed;
+    float: left;
+    width: 100%;
+    padding: 15px 0px;
+    background-color: rgba(32, 32, 138, 0.692);
+}
+.container{
+    width: 1200px;
+    margin: 0px auto;
+}
+.logo{
+    float: left;
+}
+.logo h1{
+    font-family: sans-serif;
+    color:white;
+}
+.menus{
+    float: right;
+}
+
+.menus ul{
+    margin-top: 5px;
+}
+.menus ul li{
+    display: inline;
+    margin: 0px 15px;
+}
+.menus ul li a{
+    font-size: 20px;
+    color:yellow;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.menus ul li a:hover{
+    color:greenyellow;
+}
+button{
+    background-color:black;
+    color:white;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+button:hover{
+    background-color:blueviolet;
+    color: white;
+    border:1px solid blueviolet;
+}
+h2{
+    color: maroon;
+}
+.section1{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://cdn.wallpapersafari.com/14/85/Wt69cE.jpg");
+    background-attachment: fixed;
+    /* height: 50px; */
+
+    background-size: 100%;
+}
+
+.section2{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/01/gandhiji-1611975502.jpg");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section3{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://wallpaperaccess.com/full/4496139.jpg");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+
+.section4{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://i0.wp.com/cooldigital.photography/wp-content/uploads/2015/07/A.-P.-J.-Abdul-Kalam41.jpg?fit=1600%2C837&ssl=1");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section5{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://images.indianexpress.com/2018/10/indira-gandhi.jpg");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section6{
+    float: left;
+    width: 100%;
+    height: 300px;
+    /* border-bottom: 2px solid green; */
+    padding: 150px 0px;
+    /* i tried something new,in that i put url of webpage, where you can reload page everytime the images will be change */
+    background-image: url("https://www.weavermag.com/English/wp-content/uploads/2021/05/kalapana-chawla.jpg");
+    background-attachment: fixed;
+
+    background-size: 100%;
+}
+.section-light{background-color: white;
+    color: #053B09;
+}
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.btn{
+    padding: 10px 25px;
+    font-size: 20px;
+    margin-left: calc(50% - 123px);
+    /* position: absolute;
+    text-align: center; */
+    border: 2px white;
+    background: rgba(0,0,0,0.5);
+    color:white;
+}
+footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin: auto;
+    color: #333;
+  }
+  
+  footer h3 {
+    font-size: 3rem;
+    color:blue;
+    margin-bottom: 0;
+  }
+ 
+   
